@@ -1,40 +1,41 @@
-# 🎮 Análisis de Ventas de Videojuegos  
+# 🎮 Video Game Sales Analysis
 
-Este proyecto tiene como objetivo analizar las ventas globales de videojuegos, identificando tendencias clave, plataformas más exitosas, géneros con mayor demanda y los títulos más vendidos de la historia.  
+This project aims to analyze global video game sales, identifying key trends, top-performing platforms, high-demand genres, and the best-selling titles in history.
 
-## 📌 Objetivo del Proyecto  
-El propósito de este análisis es obtener información valiosa sobre la industria de los videojuegos mediante técnicas de análisis de datos con Python. Algunas de las preguntas que buscamos responder son:  
+## 📌 Project Objective
+The purpose of this analysis is to gain valuable insights into the video game industry using data analysis techniques with Python. Some of the key questions addressed include:
 
-- 📈 **¿Cómo han evolucionado las ventas de videojuegos a lo largo del tiempo?**  
-- 🎮 **¿Cuáles son las plataformas con mayores ventas?**  
-- 🏆 **¿Qué géneros de videojuegos son los más populares?**  
-- 🔝 **¿Cuáles son los videojuegos más vendidos en la historia?**  
+- 📈 **How have video game sales evolved over time?**  
+- 🎮 **Which platforms have the highest global sales?**  
+- 🏆 **What are the most popular video game genres?**  
+- 🔝 **What are the best-selling video games of all time?**  
 
-## 🛠️ Herramientas Utilizadas  
-Este análisis se realizó utilizando **Python** y varias bibliotecas para el procesamiento y visualización de datos:  
+## 🛠️ Tools Used
+This analysis was conducted using **Python** along with several libraries for data processing and visualization:
 
-- **Pandas**: Para manipulación y análisis de datos.  
-- **Matplotlib**: Para visualización de gráficos.  
-- **Seaborn**: Para mejorar la estética de los gráficos.  
-- **NumPy**: Para cálculos numéricos y soporte en Pandas.  
+- **Pandas**: Data manipulation and analysis.  
+- **Matplotlib**: Data visualization.  
+- **Seaborn**: Enhanced chart styling.  
+- **NumPy**: Numerical operations and support for Pandas.
 
-## 📂 Estructura del Proyecto  
-El proyecto está organizado en las siguientes carpetas:  
+## 📂 Project Structure
+The project is organized into the following folders:
 
-- **`codigos_python/`**: Contiene los scripts utilizados para el análisis.  
-- **`grafico/`**: Almacena los gráficos generados durante el análisis.  
-- **`insight/`**: Incluye los hallazgos y conclusiones más relevantes.  
+- **`codigos_python/`**: Contains the Python scripts used in the analysis.  
+- **`grafico/`**: Stores the charts generated during the analysis.  
+- **`insight/`**: Includes the most relevant findings and conclusions.
 
-## 📊 Resultados y Hallazgos  
-Los principales hallazgos de este análisis incluyen:  
+## 📊 Results and Key Findings
+Here are the main insights from the analysis:
 
-- 📆 **El año con mayor cantidad de ventas fue 2008, seguido de 2009.**  
-- 🎮 **Las plataformas más vendidas globalmente han sido PS2, Wii y DS.**  
-- 🏆 **El género Acción es el más exitoso en ventas.**  
-- 🔝 **Wii Sports es el videojuego más vendido de la historia.**  
+- 📆 **The peak year for game sales was 2008, followed by 2009.**  
+- 🎮 **The top-selling platforms globally were PS2, Wii, and DS.**  
+- 🏆 **Action is the highest-selling genre.**  
+- 🔝 **Wii Sports is the best-selling video game of all time.**  
 
-Para más detalles, consulta los archivos en la carpeta **`insight/`**.  
+For more details, check the files inside the **`insight/`** folder.
 
----  
+---
 
-📌 *Este proyecto está diseñado como una práctica de análisis de datos con Python en el contexto de la industria de los videojuegos.* 🚀  
+📌 *This project was designed as a data analysis practice using Python in the context of the video game industry.* 🚀
+
